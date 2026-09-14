@@ -25,3 +25,6 @@ The system displays:
 
 ## Simulation
 The circuit was designed and tested using the Wokwi simulator.
+
+## Wokwi Simulation
+https://wokwi.com/projects/475114182777560065
